@@ -1,1 +1,2 @@
-git
+amt-as
+https://github.com/amt-as/amt-as
